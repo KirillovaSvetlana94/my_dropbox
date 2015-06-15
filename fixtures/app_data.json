@@ -1,0 +1,12 @@
+[
+{
+   "pk": 8, 
+   "model": "dropbox.folder", 
+   "fields": {
+      "date_created": "2015-06-11T17:20:48.788Z", 
+      "parent_folder": null, 
+      "user": 1, 
+      "title": "test"
+   }
+}
+]
